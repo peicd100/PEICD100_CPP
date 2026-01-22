@@ -19,3 +19,5 @@ Release/
 *.VC.db
 *.VC.VC.opendb
 ipch/
+# CMake build dir
+build/
